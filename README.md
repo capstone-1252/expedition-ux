@@ -14,7 +14,7 @@ When you first start, pull all new changes from other teamates. This will help a
 
 This can be done in VSCode by pressing the following button:
 
-![Pulling Example](pull1.png)
+![Pulling Example](readme-img/pull1.png)
 
 or in terminal with the following commands:
 
@@ -31,7 +31,7 @@ When you have made significant changes, or have finished for the day, push your 
 
 This can be done in VSCode by pressing the following button:
 
-![Pulling Example](pull1.png)
+![Pulling Example](readme-img/pull1.png)
 
 or in terminal with the following commands:
 ```
@@ -45,7 +45,7 @@ While working on the main branch is discouraged, you may do so when initializing
 
 To see what branch you are on, look for this in VSCode: 
 
-![Pulling Example](view-branch.png)
+![Pulling Example](readme-img/view-branch.png)
 
 Or use the following commands: 
 ```
@@ -57,7 +57,7 @@ When working with branches, you must be able to create, switch, and merge branch
 
 All functions can be seen in the following VSCode Menu
 
-![Pulling Example](creating-branches.png)
+![Pulling Example](readme-img/creating-branches.png)
 
 ### Creating Branches
 
